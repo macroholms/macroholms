@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hello to whoever is looking at my profile!✨
 
-<!--
-**macroholms/macroholms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ivan, how you can see. I`m a casual sudent of College in Russia.
+I am a 3rd year student at the Faculty of Information Technology.
+My knowledge of English is not perfect, but I will try for you.
 
-Here are some ideas to get you started:
+I'm guy who loves programming, learning something new, watch anime, and etc. ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can't remember anything interesting about myself, but I'm always happy to chat. 💬
+
+---
+📑
+What I`m learning for now:
+* C#
+  - WPF
+  - WinForms
+  - Unity
+* Python
+  - Scripts
+  - A little bit fo AI and NN
+* MySql and T-SQL
+
+I was glad that you visited my page and read the README about me.
+I will be glad to see you again, here on my site or in another social network!
+
+# Thanks! 👋
