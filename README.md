@@ -19,6 +19,9 @@ What I`m learning for now:
   - Scripts
   - A little bit fo AI and NN
 * MySql and T-SQL
+* Mobile dev
+  - Java + XML
+  - In future Kotlin + Jetpack compose
 
 I was glad that you visited my page and read the README about me.
 I will be glad to see you again, here on my site or in another social network!
